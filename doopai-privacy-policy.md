@@ -2,7 +2,7 @@
 
 Last Updated on April 2, 2021
 
-Doopai Technology Ltd. and its affiliates (hereinafter referred to as “Doopai”, “we,” “our,” or “us”) understand that privacy is important to visitors to our websites (our “Sites”) and users of our products and services (including without limitation Drycc and Drycc Cloud; hereinafter referred as our “Products”). This Privacy Policy explains how we collect, use, and share your personal information when you use the Sites and Products that link to this Privacy Policy.
+DOOPAI LTD. and its affiliates (hereinafter referred to as “Doopai”, “we,” “our,” or “us”) understand that privacy is important to visitors to our websites (our “Sites”) and users of our products and services (including without limitation Drycc and Drycc Cloud; hereinafter referred as our “Products”). This Privacy Policy explains how we collect, use, and share your personal information when you use the Sites and Products that link to this Privacy Policy.
 
 This Privacy Policy does not apply to Sites or Products that display or link to different Privacy Policies. This Privacy Policy also does not apply with respect to any data or content that you store or process using any of our Products, the storage and processing of which is governed by our agreements with you.
 

@@ -22,7 +22,7 @@ This Drycc Cloud Services Agreement (this “CSA”) is an agreement between the
 
 1.8. **“Law”** means any statute, law or ordinance in any jurisdiction, or any rule or regulation of any governmental body.
 
-1.9. **“Doopai Contracting Entity“** means: Doopai Technology Ltd.
+1.9. **“Doopai Contracting Entity“** means: DOOPAI LTD.
 
 1.10. **“Service Data”** means query logs and any data (other than Your Content) relating to your use of the Drycc Cloud Services or the operation, maintenance or support thereof.
 
@@ -92,7 +92,7 @@ The above-mentioned restrictions in (a) through (k) are collectively referred to
 
 5.1. The term of this CSA will remain in effect until terminated pursuant to this Section 5.
 
-5.2. You may terminate this CSA at any time for any reason by providing us email notice at deal-management@Doopai.com or deleting all of the clusters you have created using the Drycc Cloud Services. We may terminate this CSA for any reason by providing you at least thirty (30) days’ advance notice. Any notice of termination of this CSA by either party to the other must include a termination date that complies with the notice periods set forth in this Section 5.
+5.2. You may terminate this CSA at any time for any reason by providing us email notice at deal-management@doopai.com or deleting all of the clusters you have created using the Drycc Cloud Services. We may terminate this CSA for any reason by providing you at least thirty (30) days’ advance notice. Any notice of termination of this CSA by either party to the other must include a termination date that complies with the notice periods set forth in this Section 5.
 
 5.3. If either party breaches a material term of this CSA and fails to cure the breach within thirty (30) days of written notice of such breach, then the breaching party is in default and the non-breaching party may terminate this CSA on or after such thirty (30)-day cure period. If Doopai terminates this CSA as specified in the preceding sentence, you must pay within thirty (30) days all amounts which have accrued up to and including the termination date, as well as all sums remaining unpaid for the Drycc Cloud Services ordered under this CSA, plus any applicable taxes and expenses. The non-breaching party may agree in its sole discretion to extend the thirty (30)-day cure period for so long as the breaching party continues to use reasonable efforts to cure such breach.
 
@@ -193,7 +193,7 @@ The Master Agreement, the corresponding Order Form(s) and any claim, controversy
 
 15.4. **Modifications to the CSA**. Doopai may modify this CSA (including the SLA, Privacy Policy, DPA and Business Associate Agreement) at any time by posting a revised version on the Site or by otherwise notifying you in accordance with Section 15.5; provided, however, that Doopai will provide at least sixty (60) days’ advance notice for any adverse changes to SLA. Subject to the 60-day advance notice requirement with respect to adverse changes to SLA, any such modified terms will become effective upon posting or, if Doopai notifies you by email, as stated in the email message. By continuing to use the Drycc Cloud Services after the effective date of any modifications to this CSA, you agree to be bound by such modified terms. 
 
-15.5. **Notice**. Any notice, request, consent, claim, demand, or other communication to be given or delivered to a party under or by reason of a provision of this CSA shall be in writing in accordance with this Section 15.5. Doopai may provide you with notice under this CSA by (a) posting a notice on the Site or (b) sending a message to the email address then associated with your account. Notices provided by posting on the Site will be effective upon posting and notices provided by email will be effective when Doopai sends out the email. It is your responsibility to keep the email address associated with your account current. You may provide us with notice under this CSA by both (i) sending written notice in English to: Deal Management Team, 2955 Campus Drive # 100, San Mateo, CA 94403 and (ii) sending a copy email to deal-management@Doopai.com.
+15.5. **Notice**. Any notice, request, consent, claim, demand, or other communication to be given or delivered to a party under or by reason of a provision of this CSA shall be in writing in accordance with this Section 15.5. Doopai may provide you with notice under this CSA by (a) posting a notice on the Site or (b) sending a message to the email address then associated with your account. Notices provided by posting on the Site will be effective upon posting and notices provided by email will be effective when Doopai sends out the email. It is your responsibility to keep the email address associated with your account current. You may provide us with notice under this CSA by both (i) sending written notice in English to: Deal Management Team, 2955 Campus Drive # 100, San Mateo, CA 94403 and (ii) sending a copy email to deal-management@doopai.com.
 
 15.6. **Language**. All communications and notices made or given pursuant to this CSA must be in the English language. If any translation of the English language version of this CSA is provided, the English language version of this CSA will control in the event of any conflict.
 

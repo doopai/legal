@@ -22,7 +22,7 @@ You agree that by placing an order between the applicable Doopai Contracting Ent
 
 1.8. **“Order Form”** means an ordering document for your purchases of our Products and/or Services provided by Doopai, and the Order Form shall incorporate the Master Agreement that governs the Order Form.
 
-1.9. **“Doopai Contracting Entity“** means: Doopai Technology Ltd.
+1.9. **“Doopai Contracting Entity“** means: DOOPAI LTD.
 
 1.10. **“Products“** mean Drycc Enterprise subscription and/or other products provided by Doopai, excluding Drycc Cloud, and such subscription may come with technical support according to the applicable Schedule(s).
 
