@@ -88,6 +88,8 @@ The above-mentioned restrictions in (a) through (k) are collectively referred to
 
 4.7. **Insolvency Risk**. In the event that you become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding or if you believe that there is a material risk of any of the foregoing occurring, you agree to promptly notify us via email notice at deal-management@doopai.com.
 
+4.8. **Refund**. You are billed for pay-as-you-go resources only after you use the resources. You cannot apply for a refund after you use these resources. If you no longer require, you can release resources based on your business requirements. After you release the resources, you are no longer charged for the resources.
+
 ## 5. Term, Termination and Deletion
 
 5.1. The term of this CSA will remain in effect until terminated pursuant to this Section 5.
